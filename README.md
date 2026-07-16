@@ -53,7 +53,7 @@ All thresholds are user configurable.
 Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/BAFmixDetect.git
+git clone https://github.com/Menggg/BAFmixDetect.git
 cd BAFmixDetect
 ```
 
