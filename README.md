@@ -66,7 +66,7 @@ Only R (≥4.1 recommended) is needed.
 # Quick Start
 
 ```bash
-Rscript run_bafRegress_allinone_baseR_v4_QC_default_on.R \
+Rscript run_bafRegress.R \
     --final FinalReport.txt \
     --freqfile population_frequency.txt
 ```
